@@ -43,7 +43,7 @@ for i in range(5): plot_predictions(i)
 
 
 
-Conclusion:
+# Conclusion:
 Thus successfully implemented and trained a CNN to recognize objects across ten distinct categories using the CIFAR 10 dataset.
 
 
